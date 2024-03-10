@@ -1,4 +1,6 @@
+---
 namespace: "ktechmidas"
+description: "Hello World"
 name: "openvpn"
 version: "1.0.0"
 readme: "README.md"
