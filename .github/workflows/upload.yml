@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-22.04
     timeout-minutes: 5
     steps:
+      - name: checkout 
+        uses: actions/checkout@v4
       - name: Deploy Ansible Galaxy Collection
         uses: artis3n/ansible_galaxy_collection@v2.10.1
         with:
