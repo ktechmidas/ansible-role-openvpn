@@ -1,0 +1,12 @@
+namespace: "ktechmidas"
+name: "openvpn"
+version: "1.0.0"
+readme: "README.md"
+authors:
+    - "ktechmidas"
+    - "kyl191 (https://github.com/kyl191/)"
+license:
+    - "MIT"
+tags:
+    - openvpn
+repository: "https://github.com/ktechmidas/ansible-role-openvpn"
